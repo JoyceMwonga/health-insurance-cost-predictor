@@ -41,7 +41,7 @@
 - **Key Variables Identified**: Age, BMI, and smoking status are the most influential factors.
 - **Visualizations**: Correlation heatmaps, pair plots, and distribution charts were used to explore relationships between features and the target variable.
   ![AgevsCharges](https://github.com/user-attachments/assets/31755998-bebd-47c9-8139-7ed36d0e3a1c)
-  ![BMIvsCharges](https://github.com/user-attachments/assets/9fcdb4e1-6ea0-4bec-a203-3c1bd48866d0)
+    ![BMIvsCharges](https://github.com/user-attachments/assets/9fcdb4e1-6ea0-4bec-a203-3c1bd48866d0)
   ![SmokervsCharges](https://github.com/user-attachments/assets/4d2bade4-ac0f-4cef-82cf-ba2f8e70f0b4)
 
 ### Analysis/Modeling
