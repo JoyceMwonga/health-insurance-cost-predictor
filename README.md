@@ -37,10 +37,12 @@
 
 ### Exploratory Data Analysis
 - **Initial Findings**: Age, BMI, and smoking habits are strongly correlated with medical insurance costs. Smokers tend to have significantly higher costs than non-smokers.
+  ![Heatmap](https://github.com/user-attachments/assets/34fd4173-d369-4b5f-a9d9-f71bddf5716b)
 - **Key Variables Identified**: Age, BMI, and smoking status are the most influential factors.
 - **Visualizations**: Correlation heatmaps, pair plots, and distribution charts were used to explore relationships between features and the target variable.
-![issues]("link")
-
+  ![AgevsCharges](https://github.com/user-attachments/assets/31755998-bebd-47c9-8139-7ed36d0e3a1c)
+  ![BMIvsCharges](https://github.com/user-attachments/assets/9fcdb4e1-6ea0-4bec-a203-3c1bd48866d0)
+  ![SmokervsCharges](https://github.com/user-attachments/assets/4d2bade4-ac0f-4cef-82cf-ba2f8e70f0b4)
 
 ### Analysis/Modeling
 - **Methodology**: A Random Forest Regressor was selected due to its ability to handle non-linear relationships in the data, outperforming simpler models like Linear Regression.
